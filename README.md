@@ -1,5 +1,7 @@
 # NextCloud
 
+If you have any questions about your Nextcloud installation, please refer to these guides or the wiki. If you still have additionnal questions, you can mail us at gaëtan.gendroz@eduvaud.ch or nathan.filipowitz@eduvaud.ch
+
 ## Guides vidéos
 
 [Guide vidéo d'utilisation de Nextcloud](https://youtu.be/CIAvhXqyYjk?si=6YkJIiG38h_pWIS3)
